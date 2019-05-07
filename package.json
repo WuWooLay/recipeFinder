@@ -1,0 +1,24 @@
+{
+  "name": "build",
+  "version": "1.0.0",
+  "description": "",
+  "main": "precache-manifest.1f1baca38878d2886753afd92d79812c.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WuWooLay/recipeFinder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WuWooLay/recipeFinder/issues"
+  },
+  "homepage": "https://github.com/WuWooLay/recipeFinder#readme",
+  "dependencies": {
+    "serve": "^11.0.0"
+  }
+}
